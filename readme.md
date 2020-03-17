@@ -6,7 +6,7 @@
 
 ## Libraries
 
-### Laravel [...](https://laravel.com/)
+### Laravel
 
 #### Dashboards
 
