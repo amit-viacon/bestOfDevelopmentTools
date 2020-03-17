@@ -7,6 +7,7 @@
 ## Libraries
 
 ### Laravel
+[🌍](https://laravel.com/) | [📃Docs](https://laravel.com/docs/7.x)
 
 #### Dashboards
 
